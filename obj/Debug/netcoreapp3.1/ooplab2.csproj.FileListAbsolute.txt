@@ -1,0 +1,12 @@
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.exe
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.deps.json
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.runtimeconfig.json
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.runtimeconfig.dev.json
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.dll
+C:\Users\KR\source\repos\ooplab2\bin\Debug\netcoreapp3.1\ooplab2.pdb
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.AssemblyInfoInputs.cache
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.AssemblyInfo.cs
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.csproj.CoreCompileInputs.cache
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.dll
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.pdb
+C:\Users\KR\source\repos\ooplab2\obj\Debug\netcoreapp3.1\ooplab2.genruntimeconfig.cache
